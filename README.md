@@ -1,6 +1,8 @@
 npx create-react-app\
 npm install react-router-dom\
 rfce (shortcut for a component template)\
+npm install @material-ui/core\
+npm install @material-ui/icons\
 
 # Getting Started with Create React App
 
