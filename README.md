@@ -3,6 +3,7 @@ npm install react-router-dom\
 rfce (shortcut for a component template)\
 npm install @material-ui/core\
 npm install @material-ui/icons\
+Set up the StateProvider and reducer to be used in index.js
 
 # Getting Started with Create React App
 
